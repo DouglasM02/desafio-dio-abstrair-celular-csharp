@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\bin\Debug\net6.0\AbstrairCelular.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\bin\Debug\net6.0\AbstrairCelular.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\bin\Debug\net6.0\AbstrairCelular.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\bin\Debug\net6.0\AbstrairCelular.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\bin\Debug\net6.0\AbstrairCelular.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\refint\AbstrairCelular.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\AbstrairCelular.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioAbstrairCelular\AbstrairCelular\obj\Debug\net6.0\ref\AbstrairCelular.dll
